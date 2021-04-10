@@ -5,4 +5,4 @@ CAU Biometrics Project
 
 주제: 로지스틱 회귀를 이용하여 두 개의 서명이 들어있는 DB에서 서명을 분류  
 
-<img src="https://github.com/yesoly/Signature_Recognition/blob/master/Signature.png?raw=true" width="600px">
+<img src="https://github.com/yesoly/Signature_Recognition/blob/master/Signature.png?raw=true" width="800px">
